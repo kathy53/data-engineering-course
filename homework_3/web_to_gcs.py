@@ -1,6 +1,6 @@
 """
 Requirements: 
-    Create a virtual environment
+    Create a python virtual environment
     Previously install pyarrow, google-cloud-storage, requests
     Set environment variables: GCP_GCS_BUCKET, GOOGLE_APPLICATION_CREDENTIALS
 Loading data from web to GCS, storing files locally
