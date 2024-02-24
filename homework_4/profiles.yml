@@ -1,0 +1,14 @@
+bq-dbt-workshop:
+  outputs:
+    dev:
+      dataset: de_taxi_dbt_hw4
+      fixed_retries: 1
+      keyfile: /.google/credentials/de-zoomcamp-412517-9afc71142b9d.json
+      location: EU
+      method: service-account
+      priority: interactive
+      project: de-zoomcamp-412517
+      threads: 4
+      timeout_seconds: 300
+      type: bigquery
+  target: dev
