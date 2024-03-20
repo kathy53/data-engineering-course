@@ -77,6 +77,6 @@ Row(lpep_pickup_datetime='2019-10-01 00:26:02', lpep_dropoff_datetime='2019-10-0
 ```
 __Question 7__
 
-Please review the notebook called analytics.ipynb. REMEMBER I ran the cells using ipython on the Google VM. 
+For this question please review the notebook hw6_question7.ipynt 
 
 
